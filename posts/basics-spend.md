@@ -1,5 +1,5 @@
 $ post_id : basics-spend
-$ post_title : 01: Spend as your life depends on it
+$ post_title : 01: Spend, because your life depends on it
 $ post_group : 01: Three things to do with money
 $ post_last_update: 2021-05-02
 
@@ -69,6 +69,6 @@ I want you to do a mental exercise. Imagine that you have lost every financial a
 
 >& Compute minimum survival cost and write down the lifestyle associated with it.
 
-There is something I want you to note. These spend-buckets you have created, their classification, and the survival costs you have computed are for today. We have not accounted these values for inflation. If your minimum survival cost today is INR 5000, it wouldn't be so next year. We have also not accounted for any changes in lifestyle. What if you get married, or change cities, or have a kid. All these would change.
+There is something I want you to note. These spend-buckets you have created, their classification, and the survival costs you have computed are for today. We have not accounted these values for inflation. If your minimum survival cost today is INR 5000, it wouldn't be so next year. We have also not accounted for any changes in lifestyle. What if you get married, or change cities, or have a kid? All these would change.
 
 Also, I must mention that these are measurement exercises. It is best not to acquire a large asset or a liability or change your lifestyle drastically during this period.
