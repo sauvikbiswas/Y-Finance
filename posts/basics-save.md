@@ -5,7 +5,7 @@ $ post_last_update: 2021-05-02
 
 ## Identifying save-buckets
 
-In principle, saving money is the act of sacrificing some amount of your present convenience for your future survival or convenience. That is all there is to it. And it has to be planned in that order--survival first, convenience second. At this point, I do not want you think about any savings or investment strategy at all, but to identify what are the investments that you make every year.
+In principle, saving money is the act of sacrificing some amount of your present convenience for either your future survival or your future convenience. That is all there is to it. And it has to be planned in that order--survival first, convenience second. At this point, I do not want you think about any savings or investment strategy at all, but to identify what are the investments that you make every year.
 
 >& Identify investments and the corresponding save-buckets.
 
