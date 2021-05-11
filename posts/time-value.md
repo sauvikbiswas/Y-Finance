@@ -31,10 +31,10 @@ This method can be used to calculate various scenarios, especially many alternat
 
 Here is a thumb rule: the returns on debt instruments is less than the rate of inflation, which in turn is less than rate of market growth. This means that the time value of your spend-buckets are sandwiched between the two asset classes of your save-buckets (debt and equity).
 
-> Image
+![Fixed deposit, Inflation and Market Rates from 2010 to 2019](FD-inflation-market-2010-19.jpg)
 
 There is something I would like to mention. It is very difficult to get accurate data for inflation. The Consumer Price Index (CPI) published in India does not reflect the actual inflation. If you have kept a track of your expenses over a significant period of time, you would be able to compute a far more reliable rate. In my experience of tracking over the last five years, I found that adding anywhere between 1% to 2% on top of the published data gave me the right numbers.
 
-You may come to a conclusion that it is far better to park money in the the market by buying stocks and equity mutual funds than to put it in fixed-deposits and bonds. What's the catch?
+You may come to a conclusion that it is far better to park money in the the market by buying stocks and equity-funds than to put it in fixed-deposits, debt-funds and bonds. So, what's the catch?
 
-Well, there is another thumb rule: the variation in the returns on debt instruments is less than the variation in the rate of inflation, which in turn is less than the variation in the rate of market growth. This means that if you have parked your money in the market, while the average return might be higher, there is no guarantee that the return would be high for the businesses you have put your money in as there would be large variation of market growth across businesses, or it would be high for the particular year, month, or day on which you would want to encash your money as there would be a large variation of market growth across business.
+Well, there is another thumb rule: the variation (or standard deviation; see the above table) in the returns on debt instruments is less than the variation in the rate of inflation, which in turn is less than the variation in the rate of market growth. This means that if you have parked your money in the market, while the average return might be higher, there is no guarantee that the return would be high for the businesses you have put your money in as there would be large variation of market growth across businesses, or it would be high for the particular year, month, or day on which you would want to encash your money as there would be a large variation of market growth across business.
