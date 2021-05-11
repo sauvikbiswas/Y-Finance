@@ -1,6 +1,6 @@
 $ post_id : budgeting
-$ post_title : 01 The balancing act
-$ post_group : 02 Budgeting on a spreadsheet
+$ post_title : 01: The balancing act
+$ post_group : 02: Budgeting on a spreadsheet
 $ post_last_update: 2021-05-05
 
 ## An idea borrowed from our forefathers
