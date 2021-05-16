@@ -1,6 +1,6 @@
 $ post_id : carry-over
 $ post_title : 02: Accounting for carry overs
-$ post_group : 02: Budgeting on a spreadsheet
+$ post_group : 02: Establishing a foundation
 $ post_last_update: 2021-05-09
 
 ## Accumulation for a lumpsum

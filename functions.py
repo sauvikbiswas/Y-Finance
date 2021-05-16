@@ -1,6 +1,6 @@
 from pprint import pprint as pp
 def post_list(postIdDict):
-    pp(postIdDict)
+    # pp(postIdDict)
     postHyperLink = []
     post_group = {}
 
@@ -14,6 +14,6 @@ def post_list(postIdDict):
 
     for item in sorted(post_group.keys()):
         postHyperLink.append(post_group[item][0]+'\n'+'\n'.join(sorted(post_group[item][1])))
-        
+
     postHyperLink = '\n'.join(postHyperLink)
     return postHyperLink
