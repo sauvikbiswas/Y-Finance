@@ -69,4 +69,4 @@ If you want to go aggressive, the sigmoid curve is for you. This one keeps your 
 
 **Extra**: This curve is given by the equation \\( \displaystyle equity\vert_{year} = equity\vert_{start} \cdot (1+\exp(year-year\vert_{equity=0}+4))^{-1} \\)
 
-In all cases, you start off with a particular equity and taper it down to zero near the end. These are some standard curves. They are but standard ways to plan a timeline of how your exposure should evolve. However, you are free to choose how you would want to handle the middle.
+In all cases, you start off with a particular equity and taper it down to zero near the end. These are some standard curves--standard ways to plan a timeline of how your exposure should evolve. You are free to choose how you would want to handle the middle.
