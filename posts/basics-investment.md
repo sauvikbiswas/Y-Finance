@@ -60,4 +60,13 @@ If you want to play it safer, you might want to choose a logarithmic taper. In t
 
 ![Exposure taper log](Exposure-time-logarithmic.svg)
 
-Personally, I use the logarithmic taper as I am more risk-averse than most people. If you are a risk-averse person like me, you should use the same.
+
+**Extra**: In case, you are wondering, the equation to the logarithmic equity graph is given by \\(\displaystyle equity\vert_{year} = equity\vert_{start} \cdot (1 - \gamma \cdot log (year +1))\\) where \\(\gamma\\) is a taper factor. This taper factor is chosen such that the equity is zero a year or two before maturity. You can backcalculate it. \\(\displaystyle \gamma = (log(year\vert_{equity=0}+1))^{-1} \\)
+
+If you want to go aggressive, the sigmoid curve is for you. This one keeps your equity exposure near constant for the early years and then rapidly tapers off to near zero in 7 years.
+
+![Exposure taper sigmoid](Exposure-time-sigmoid.svg)
+
+**Extra**: This curve is given by the equation \\( \displaystyle equity\vert_{year} = equity\vert_{start} \cdot (1+\exp(year-year\vert_{equity=0}+4))^{-1} \\)
+
+In all cases, you start off with a particular equity and taper it down to zero near the end. These are some standard curves. They are but standard ways to plan a timeline of how your exposure should evolve. However, you are free to choose how you would want to handle the middle.
