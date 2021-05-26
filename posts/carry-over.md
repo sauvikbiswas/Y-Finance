@@ -23,7 +23,7 @@ Alternatively, you may notice that you are constantly underspending that bucket.
 
 ## Marginal overconsumption in a spend-bucket
 
-It is not unlikely that there would be some overconsumption in some of the spend-buckets. Just like the previous underconsumption case, you would have to allocate some extra money in the plans for the next month so that the available money in the bucket is back to its baseline. If you are constantly overconsuming, you should re-evaluate the baseline itsef.
+It is not unlikely that there would be some overconsumption in some of the spend-buckets. Just like the previous underconsumption case, you would have to allocate some extra money in the plans for the next month so that the available money in the bucket is back to its baseline. If you are constantly overconsuming, you should re-evaluate the baseline itself.
 
 Let us address another problem. Where did the money for overconsumption come from and what can you do about it?
 
