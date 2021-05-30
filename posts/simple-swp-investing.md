@@ -31,9 +31,9 @@ In fact, there is no need for us to taper our equity exposure to zero. You can s
 
 This is a good place to stop and reflect if you can sustain yourself or your family after retirement. This is where the exercise where you had computed a minimum survival cost would come very handy. I had also asked you to document the lifestyle associated with it. In the **Financial Independence / Retire Early** (FIRE) community, this state characterised by a frugal lifestyle is known as *Lean-FIRE*.
 
-Let us look at a realistic Lean-FIRE scenario. It is possible for me and my family to survive on 20,000 rupees a month in 2021. However, I would have to go back to my hometown and trade off a number of facilities that comes with living in a fast-paced city and its higher standards of living.
+Let us look at a realistic Lean-FIRE scenario. It is possible for your family (Let us say that you have a family of 4.) to survive on 20,000 rupees a month in 2021 in a tier-2 town in India.
 
-Let me assume that I would work for 10 more years. How much would I need to invest every year in order to achieve this? Let us assume some of the following parameters:
+Let us assume that you would work for 10 more years. How much would you need to invest every year in order to achieve this? Let us also assume some of the following parameters:
 
 | Parameter                                   | Rate  |
 |---------------------------------------------|-------|
@@ -41,7 +41,7 @@ Let me assume that I would work for 10 more years. How much would I need to inve
 | Average returns from debt                   | 6%    |
 | Inflation / Yearly increment in withdrawal  | 8.75% |
 
-While I would need 2,40,000 rupees in 2021, accounting for an 8.75% inflation, I would need about 5,55,260 rupees in 2032. If I invest 2,40,000 rupees in 2021 with an increment of 10% per year for the next 10 years and an equity that tapers to zero in 2080, I would survive for 11 years after retirement with that corpus. Ouch! That is definitely not a pleasant situation to be in.
+While you would need 2,40,000 rupees in 2021, accounting for an 8.75% inflation, you would need about 5,55,260 rupees in 2032. If you invest 2,40,000 rupees in 2021 with an increment of 10% per year for the next 10 years and an equity that tapers to zero in 2080 (just like the last example), you would survive for 11 years after retirement with that corpus. Ouch! That is definitely not a pleasant situation to be in.
 
 ![Corpus vs Year with non-zero equity: Example 1](Corpus-vs-Year-non-zero-equity-example-1.svg)
 
