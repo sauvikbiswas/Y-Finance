@@ -29,9 +29,9 @@ For expenditures that cater to the survival aspect of food, clothing, and shelte
 
 Here are a couple of examples--
 
-1. Consumables (FMCG, grocery, canteen)
+1. Consumables (some FMCG items like grocery and toiletries, canteen)
 3. Shelter (rent, home maintenance, electricity, home insurance)
-4. Luxury items (clothing, accessories)
+4. Luxury items (some FMCG items like cosmetics, clothing, accessories)
 2. Eating out (dining, food delivery)
 5. Car (EMI, petrol, maintenance, insurance)
 6. Books & Magazine subscriptions
@@ -42,7 +42,7 @@ Here are a couple of examples--
 11. Health (doctor, medicine, supplement, annual check-up, medical insurance)
 12. Education (school, tuition, stationary)
 
-These spend-buckets should be tailored to your lifestyle and spending habits. Add, omit, split, or combine as necessary. A person who isn't into books would not have a spend-bucket called *Books & Magazine subscriptions*. You might have a hobby like painting; thus, having a spend-bucket called *Painting (classes, stationary, paraphernalia)* might make more sense to you. Maybe, you have a new-born and having something like *Baby (doctor, medicine and diaper)* might be a rational choice. Maybe it is more pragmatic for you to have a separate spend-bucket called *Insurance* and track your medical, property and vehicle insurance there instead of the buckets in the aforementioned examples. What matters in the end is that you create these buckets based on what makes sense to you.
+These spend-buckets should be tailored to your lifestyle and spending habits. Add, omit, split, or combine as necessary. A person who isn't into books would not have a spend-bucket called *Books & Magazine subscriptions*. You might have a hobby like painting; thus, having a spend-bucket called *Painting (classes, stationary, paraphernalia)* might make more sense to you. Maybe you have a dog as a pet; you might have a spend-bucket called *Tommy (food, grooming, vet and medicine)*. (In my mind, Tommy has always been the quintessential Indian dog.) Maybe, you have a new-born and having something like *Baby (doctor, medicine and diaper)* might be a rational choice. Maybe it is more pragmatic for you to have a separate spend-bucket called *Insurance* and track your medical, property and vehicle insurance there instead of the buckets in the aforementioned examples. What matters in the end is that you create these buckets based on what makes sense to you.
 
 ## Classifying spend-buckets
 
